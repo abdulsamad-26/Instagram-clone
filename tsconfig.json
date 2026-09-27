@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "src/app/layout.js", "src/app/page.js", "src/components/ui/button.jsx", "src/components/ui/card.jsx"  ],
   "exclude": ["node_modules"]
 }
